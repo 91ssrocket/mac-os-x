@@ -1,2 +1,2 @@
-# mac-os-x
-You can download the latest mac os x -ss from https://github.com/shadowsocks/ShadowsocksX-NG/releases
+# mac-os-x-ss client
+You can download the latest mac os x -ss client from https://github.com/shadowsocks/ShadowsocksX-NG/releases
