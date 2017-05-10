@@ -1,2 +1,2 @@
 # mac-os-x
-mac os x -ss
+You can download the latest mac os x -ss from https://github.com/shadowsocks/ShadowsocksX-NG/releases
